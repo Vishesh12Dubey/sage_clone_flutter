@@ -88,8 +88,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_project/Sage_clone_app/RagistrationPage.dart';
 import 'package:flutter_project/Sage_clone_app/RagistrationPage2.dart';
-import 'package:flutter_project/Splach.dart';
-import 'package:flutter_project/flipkart.dart';
+// import 'package:flutter_project/Splach.dart';
+// import 'package:flutter_project/flipkart.dart';
 // import 'HomePage.dart';
 // import 'Amazonn.dart';
 // import 'ThirdPage.dart';
@@ -103,14 +103,14 @@ import 'LoginPage.dart';
 // import 'SecondPage.dart';
 // import 'SageApp.dart';
 // import 'ABC.dart';
-import '../Splach.dart';
+// import '../Splach.dart';
 // // import 'Add.dart';
 import 'Sage.dart';
 import 'SageSplach.dart';
 // import 'practics.dart';
 // import 'MyApp.dart';
 import 'RagistrationPage.dart';
-import '../Ragistrationpage2.dart';
+// import '../Ragistrationpage2.dart';
 void main(){
 
   runApp(MaterialApp(

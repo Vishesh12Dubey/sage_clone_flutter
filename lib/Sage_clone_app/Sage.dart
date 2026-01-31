@@ -1,8 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_project/Alert.dart';
 import 'package:flutter_project/Sage_clone_app/Assignment.dart';
 import 'package:flutter_project/Sage_clone_app/Attendance.dart';
-import 'package:flutter_project/Back.dart';
+// import 'package:flutter_project/Back.dart';
 import 'package:flutter_project/Sage_clone_app/Calender.dart';
 import 'package:flutter_project/Sage_clone_app/Change_Password.dart';
 import 'package:flutter_project/Sage_clone_app/Contact.dart';
@@ -400,4 +399,7 @@ class _SageState extends State<Sage> {
       ),
     );
   }
+}
+
+Back() {
 }
